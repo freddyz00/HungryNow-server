@@ -15,5 +15,8 @@
     "express": "^4.17.2",
     "nodemon": "^2.0.15",
     "pusher": "^5.0.1"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
